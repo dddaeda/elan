@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-23T00:22:29+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/79101/Desktop/IMG_7143.MOV"
+            MIME_TYPE="video/quicktime" RELATIVE_MEDIA_URL="./IMG_7143.MOV"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:90107a52-6c41-4d08-94fb-fee86047e5b7</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">19</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="6005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="6300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="7070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="9270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="10990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="11010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="11040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="11040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="13880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="15970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="17005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="17005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="17040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="17440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="21990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="21990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="26896"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="27566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="29000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="29010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="35980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="35980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="40696"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="41856"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="42980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="42980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="49945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="49945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="55000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="55000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="60020"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="текст">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>эээ привет я хочу рассказать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>почему я поступила на программу Эфиопия и арабский мир в том году</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>эээ как таковой причины нет мне просто</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>всегда нравилось изучать языки и это единтсвенное что у меня получалось в жизни ээээ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ну одно из многочисленных вещей вот иии на этой программе была</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>возможность изучать много языков эмм развивать себя в плане востока</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>вот иии по большей части именно это меня привлекло ааа плюс конечно повлияло то что это высшая школа эко</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>номики первый университет по мнению Форбс ааа самый лучший эмм воот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ииии ну это уникальная программа на которую идет не так много людей и после ее оконча</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>ния ты будешь универсальный ой и уникальным спе</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>циалистом эммм вот надеюсь что буду востребована на рынке труда</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Даша" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="Тома" TIER_ID="смех">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>смех</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>смех</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Даша" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="Тома" TIER_ID="пауза">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>пауза</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>пауза</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>пауза</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>пауза</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>пауза</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="смех" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="смех">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_03a1f397-93a8-42d8-b357-46f7336c141c">
+            <CVE_VALUE LANG_REF="und">громкий смех</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0504e886-3027-4ea9-bb3d-510098433dc2">
+            <CVE_VALUE LANG_REF="und">тихий смех</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
